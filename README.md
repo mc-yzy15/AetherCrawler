@@ -158,6 +158,8 @@ v1.1.0 (2024-02)
 
 ---
 
+# For me
+
 ## 关键合规性调整
 
 1. **版权声明强化**  
@@ -166,9 +168,6 @@ v1.1.0 (2024-02)
    # Copyright (c) 2024 AetherLabs
    # Licensed under Apache License 2.0
 
-
-2. 贡献者协议 (CLA)
-在项目根目录添加 CONTRIBUTING.md：
 
 ## 贡献者许可协议
 
@@ -186,6 +185,7 @@ v1.1.0 (2024-02)
 AetherLabs保留所有与本项目相关的专利权利。
 使用本项目的衍生作品需遵守Apache License 2.0的专利条款。
 
+# For Enterprise
 
 部署注意事项
 
