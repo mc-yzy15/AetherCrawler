@@ -55,25 +55,32 @@
 ### 环境准备
 
 # 创建虚拟环境
+```
 python -m venv .venv
 source .venv/bin/activate
+```
 
 # 安装依赖
+```
 pip install -r requirements.txt
+```
 启动爬虫
 
 # 基础模式
+```
 python crawler.py --url https://example.com
+```
 
 # 高级配置
+```
 python crawler.py \
   --config=config/advanced.json \
   --workers=8 \
   --output-format=json
-
+```
 
 # 配置文件示例
-
+```
 {
   "general": {
     "user_agent": "QuantumCrawler/1.0",
@@ -86,7 +93,7 @@ python crawler.py \
     "neural_model": "bert-base"
   }
 }
-
+```
 
 # 📝 贡献指南
 
@@ -105,7 +112,7 @@ python crawler.py \
 
 
 # 🌐 系统架构
-
+```
 graph TD
     A[控制中心] --> B[任务调度器]
     B --> C{分布式节点}
@@ -114,12 +121,12 @@ graph TD
     C --> F[反爬分析模型]
     F --> G[数据验证管道]
     G --> H[加密存储]
-
+```
 
 # 🔧 扩展开发
 
 ## 插件系统
-
+```
 class CustomPlugin(PluginBase):
     def process_response(self, response):
         # 自定义数据处理逻辑
@@ -128,7 +135,7 @@ class CustomPlugin(PluginBase):
     def validate_data(self, data):
         # 实现数据验证规则
         return is_valid
-
+```
 
 # 📜 更新日志
 
@@ -158,7 +165,7 @@ v1.1.0 (2024-02)
    ```python
    # Copyright (c) 2024 AetherLabs
    # Licensed under Apache License 2.0
-
+```
 
 2. 贡献者协议 (CLA)
 在项目根目录添加 CONTRIBUTING.md：
@@ -184,14 +191,15 @@ AetherLabs保留所有与本项目相关的专利权利。
 
 1. 企业用户
 需要签署企业使用协议：
-
+```
 企业名称：____________________
 授权范围：____________________
 签署日期：____________________
-
+```
 
 2. 政府用户
 需额外遵守FIPS 140-2标准：
-
+```
 [ ] 已通过FIPS 140-2加密认证
 [ ] 已配置HSM硬件安全模块
+```
