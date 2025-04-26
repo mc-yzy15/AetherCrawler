@@ -90,4 +90,23 @@
 
 作为项目唯一维护者，可通过以下方式联系：
 📧 邮箱：yaoziying@yzit7.wecom.work（企业微信）  
-🌐 个人主页：[mc-yzy15.dev](https://mc-yzy15.dev)
+🌐 个人主页：[@mc-yzy15](https://github/mc-yzy15)
+
+
+## 社区协作
+
+📢 **欢迎参与项目开发！**
+
+我们使用GitHub Wiki维护项目文档，欢迎贡献您的知识：
+🔗 [项目Wiki地址](https://github.com/mc-yzy15/AetherCrawler/wiki)
+
+### 贡献指南
+1. Fork本项目仓库
+2. 在Wiki页面点击"编辑"
+3. 提交Pull Request
+4. 通过审核后合并
+
+### 文档规范
+- 使用Markdown格式
+- 保持技术描述准确
+- 注明您的贡献者
