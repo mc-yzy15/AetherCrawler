@@ -25,7 +25,7 @@
 
 ### 核心创新
 ✅ 集成Rust安全模块的内存管理系统（本人开发）  
-✅ 动态行为建模引擎（个人专利技术）  
+✅ 动态行为建模引擎（个人技术）  
 ✅ 实时流量可视化监控面板（开发中）
 
 ---
@@ -66,7 +66,7 @@
 
 ### 支持协议
 1. 商业用途需直接联系开发者（DM @mc-yzy15）
-2. 技术支持通过企业微信邮件处理
+2. 技术支持通过邮件处理
 3. 紧急安全公告将通过专用渠道推送
 
 ---
@@ -89,7 +89,7 @@
 ## 📢 联系方式
 
 作为项目唯一维护者，可通过以下方式联系：
-📧 邮箱：yaoziying@yzit7.wecom.work（企业微信）  
+📧 邮箱：[yingmoliuguang@yeah.net](mailto:yingmoliuguang@yeah.net)
 🌐 个人主页：[@mc-yzy15](https://github/mc-yzy15)
 
 
@@ -97,8 +97,9 @@
 
 📢 **欢迎参与项目开发！**
 
-我们使用GitHub Wiki维护项目文档，欢迎贡献您的知识：
+我们使用GitHub Wiki 和仓库维护项目文档，欢迎贡献您的知识：
 🔗 [项目Wiki地址](https://github.com/mc-yzy15/AetherCrawler/wiki)
+🔗 [项目 Docs 仓库地址](https://mc-yzy15.github.io/AetherCrawler-docs)
 
 ### 贡献指南
 1. Fork本项目仓库
